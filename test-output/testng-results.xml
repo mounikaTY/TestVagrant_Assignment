@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[India]]>
+    </line>
+    <line>
+      <![CDATA[December 17, 2021 (United States)]]>
+    </line>
+    <line>
+      <![CDATA[India]]>
+    </line>
+    <line>
+      <![CDATA[17 December 2021]]>
+    </line>
+    <line>
+      <![CDATA[The country Name in both Wikipedia and Imdb is same]]>
+    </line>
+    <line>
+      <![CDATA[The Release date present in both Wiki and imdb is not same]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-02-23T14:33:37Z" name="Suite" finished-at="2023-02-23T14:36:15Z" duration-ms="158444">
+    <groups>
+    </groups>
+    <test started-at="2023-02-23T14:33:37Z" name="Test" finished-at="2023-02-23T14:36:15Z" duration-ms="158444">
+      <class name="com.Fork.Assessment.Validate_Assessment">
+        <test-method is-config="true" signature="suiteSetup()[pri:0, instance:com.Fork.Assessment.Validate_Assessment@68702e03]" started-at="2023-02-23T20:03:37Z" name="suiteSetup" finished-at="2023-02-23T20:05:04Z" duration-ms="86486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteSetup -->
+        <test-method is-config="true" signature="loginTest()[pri:0, instance:com.Fork.Assessment.Validate_Assessment@68702e03]" started-at="2023-02-23T20:05:04Z" name="loginTest" finished-at="2023-02-23T20:05:24Z" duration-ms="20868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="assessmentTest()[pri:0, instance:com.Fork.Assessment.Validate_Assessment@68702e03]" started-at="2023-02-23T20:05:24Z" name="assessmentTest" finished-at="2023-02-23T20:06:14Z" duration-ms="49347" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[India]]>
+            </line>
+            <line>
+              <![CDATA[December 17, 2021 (United States)]]>
+            </line>
+            <line>
+              <![CDATA[India]]>
+            </line>
+            <line>
+              <![CDATA[17 December 2021]]>
+            </line>
+            <line>
+              <![CDATA[The country Name in both Wikipedia and Imdb is same]]>
+            </line>
+            <line>
+              <![CDATA[The Release date present in both Wiki and imdb is not same]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- assessmentTest -->
+        <test-method is-config="true" signature="LogoutTest()[pri:0, instance:com.Fork.Assessment.Validate_Assessment@68702e03]" started-at="2023-02-23T20:06:14Z" name="LogoutTest" finished-at="2023-02-23T20:06:14Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.Fork.Assessment.Validate_Assessment@68702e03]" started-at="2023-02-23T20:06:14Z" name="closeBrowser" finished-at="2023-02-23T20:06:15Z" duration-ms="1720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.Fork.Assessment.Validate_Assessment -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
