@@ -13,6 +13,7 @@ Technologies Used :
  Maven as Build Management Tool,
  TestNg as For suiteXml Execution and Parallel Execution.
  
+ #Usage
  #Instructions for Local Execution of the code
   Install Eclipse IDE
   Add dependencies in the POM.xml File:
