@@ -13,6 +13,15 @@ Technologies Used :
  Maven as Build Management Tool,
  TestNg as For suiteXml Execution and Parallel Execution.
  
+ #Instructions for Local Execution of the code
+  Install Eclipse IDE
+  Add dependencies in the POM.xml File:
+     1. Maven version :3.8.2
+     2. Java JDK :jdk 1.8
+     3. TestNG  : 6.9.8
+     4. Selenium : 3.141.59
+     After Adding Dependencies We can easily upgrade versions.
+ 
  # Project Status
    Test Execution : completed
    Working.
